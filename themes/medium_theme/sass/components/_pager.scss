@@ -1,0 +1,16 @@
+.pager {
+  .pager__items {
+    margin: 1rem 0;
+    .pager__item {
+      a {
+        @include typecsset-font-size(14px);
+        color: $color--grey;
+      }
+      &.is-active {
+        a {
+          color: $color--black;
+        }
+      }
+    }
+  }
+}

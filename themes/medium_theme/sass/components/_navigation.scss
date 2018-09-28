@@ -1,0 +1,47 @@
+.site-navigation {
+  position: relative;
+  width: 100%;
+  margin-bottom: 2rem;
+  padding: .75rem 0;
+  border-top: 1px solid $color--white-smoke;
+  border-bottom: 1px solid $color--white-smoke;
+  white-space: nowrap;
+  background: $color--white;
+  z-index: 1;
+  &.sticky {
+    position: fixed;
+    left: 0;
+    top: 0;
+    box-shadow: 0 1px 1.5rem $color--whisper;
+  }
+  .site--main-menu {
+    @include reset();
+    @include no-bullet();
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    li {
+      flex: 0 0 auto;
+      margin-right: 1.75rem;
+      a {
+        color: $color--grey;
+        font-size: .875rem;
+        text-transform: uppercase;
+        &.is-active {
+          color: $color--black;
+          font-weight: $font--semibold;
+        }
+        &:hover {
+          color: $color--black;
+        }
+      }
+    }
+  }
+}

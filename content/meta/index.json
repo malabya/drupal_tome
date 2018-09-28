@@ -2,5 +2,23 @@
     "shortcut.f5ac2ca3-022c-4885-a63a-05825b812f12": [],
     "shortcut.fee7a152-6f3a-4d10-ab7f-a871a4c070e9": [],
     "user.b331f4dd-0a94-45cd-bbd9-cce5954250a6": [],
-    "user.addb4be9-c1cc-446a-a877-f4563229612f": []
+    "user.addb4be9-c1cc-446a-a877-f4563229612f": [],
+    "taxonomy_term.1605dc7f-6705-4570-93d9-439c3fa67dc7": [],
+    "taxonomy_term.c36b6755-4fbf-4b91-a314-3a8a3f15d051": [],
+    "taxonomy_term.c0a04585-fa64-4377-9e53-094d29a0fb71": [],
+    "taxonomy_term.ba703f1f-ff70-4791-a78c-7b97fbe0305d": [],
+    "taxonomy_term.124dec68-d68b-4493-b58e-ebc965ed9650": [],
+    "taxonomy_term.b5e5e405-ad47-4f5a-9348-591936eeabd6": [],
+    "file.5b8c2f31-8e50-4128-b948-1e6ccc36e889": [
+        "user.addb4be9-c1cc-446a-a877-f4563229612f"
+    ],
+    "taxonomy_term.62f08e47-f8d1-44f8-affb-4d39ba4dd578": [],
+    "taxonomy_term.5e4b0888-4453-4837-81d1-640882fea168": [],
+    "node.20c7899a-4d75-476a-aed2-97def75f9f30": [
+        "user.addb4be9-c1cc-446a-a877-f4563229612f",
+        "taxonomy_term.ba703f1f-ff70-4791-a78c-7b97fbe0305d",
+        "file.5b8c2f31-8e50-4128-b948-1e6ccc36e889",
+        "taxonomy_term.62f08e47-f8d1-44f8-affb-4d39ba4dd578",
+        "taxonomy_term.5e4b0888-4453-4837-81d1-640882fea168"
+    ]
 }

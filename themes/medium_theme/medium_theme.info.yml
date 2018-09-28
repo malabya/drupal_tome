@@ -1,0 +1,23 @@
+name: Medium
+type: theme
+description: 'A simple clean theme inspired by Medium blogging platform.'
+package: Other
+core: 8.x
+libraries:
+  - medium_theme/global-styling
+
+base theme: classy
+
+regions:
+  branding: Branding
+  header_left: Header left
+  header_right: Header right
+  navigation: Navigation
+  featured: Featured
+  content: Content
+  featured_bottom: Featured bottom
+  footer_first: Footer first
+  footer_second: Footer second
+  footer_third: Footer third
+  footer_bottom: Footer bottom
+

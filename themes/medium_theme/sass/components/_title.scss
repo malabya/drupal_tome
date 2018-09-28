@@ -1,0 +1,12 @@
+/* ==========================================================================
+   Title.scss settings
+   ========================================================================== */
+/**/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family--primary;
+  font-style: normal;
+  color: $color--black;
+  letter-spacing: 0;
+  font-weight: $font--semibold;
+}

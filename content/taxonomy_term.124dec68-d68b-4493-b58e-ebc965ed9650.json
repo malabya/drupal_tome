@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "124dec68-d68b-4493-b58e-ebc965ed9650"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "category",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "4db5c0e0-5ba6-4c46-b2f8-c54ecf0e69f9"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Design"
+        }
+    ],
+    "description": [],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-28T16:16:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

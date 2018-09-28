@@ -1,0 +1,22 @@
+uuid: f2fcc33d-fc9c-4fa8-b311-01e94315c10f
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - medium_theme
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: medium_theme_help
+theme: medium_theme
+region: content
+weight: -2
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

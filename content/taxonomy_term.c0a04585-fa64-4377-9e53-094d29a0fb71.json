@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "c0a04585-fa64-4377-9e53-094d29a0fb71"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "category",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "4db5c0e0-5ba6-4c46-b2f8-c54ecf0e69f9"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Entrepreneurship"
+        }
+    ],
+    "description": [],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-28T16:15:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

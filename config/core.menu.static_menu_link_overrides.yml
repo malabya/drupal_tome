@@ -5,5 +5,47 @@ definitions:
     parent: ''
     weight: 0
     expanded: false
+  'taxonomy_menu__menu_link:taxonomy_menu__menu_link__main_navigation__1':
+    weight: -49
+    menu_name: main
+    parent: ''
+    enabled: true
+    expanded: false
+  'taxonomy_menu__menu_link:taxonomy_menu__menu_link__main_navigation__5':
+    weight: -48
+    menu_name: main
+    parent: ''
+    expanded: false
+    enabled: true
+  'taxonomy_menu__menu_link:taxonomy_menu__menu_link__main_navigation__3':
+    weight: -47
+    menu_name: main
+    parent: ''
+    expanded: false
+    enabled: true
+  standard__front_page:
+    weight: -50
+    menu_name: main
+    parent: ''
+    expanded: false
+    enabled: true
+  'taxonomy_menu__menu_link:taxonomy_menu__menu_link__main_navigation__4':
+    weight: -46
+    menu_name: main
+    parent: ''
+    expanded: false
+    enabled: true
+  'taxonomy_menu__menu_link:taxonomy_menu__menu_link__main_navigation__6':
+    weight: -45
+    menu_name: main
+    parent: ''
+    expanded: false
+    enabled: true
+  'taxonomy_menu__menu_link:taxonomy_menu__menu_link__main_navigation__2':
+    weight: -44
+    menu_name: main
+    parent: ''
+    expanded: false
+    enabled: true
 _core:
   default_config_hash: jdY7AU0tU-QsjmiOw3W8vwpYMb-By--_MSFgbqKUTYM

@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "20c7899a-4d75-476a-aed2-97def75f9f30"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "afdf7d6f-e2bb-40ca-9de0-801892f2a123"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-28T16:24:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Kavanaugh is the Face of American Male Rage"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-28T16:21:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-28T16:24:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Progressively administrate user-centric supply chains via performance based total linkage. Completely reconceptualize distributed results and top-line infomediaries. Dynamically network extensible strategic theme areas with clicks-and-mortar markets. Dramatically customize competitive testing procedures through orthogonal content. Credibly harness competitive infomediaries rather than team driven technology.<\/p>\r\n\r\n<p>Distinctively architect fully tested metrics vis-a-vis leading-edge niche markets. Compellingly reintermediate progressive paradigms and user-centric best practices. Progressively enable dynamic web-readiness for top-line relationships. Objectively brand strategic information for high-quality leadership skills. Energistically integrate exceptional expertise and high-quality intellectual capital.<\/p>\r\n\r\n<p>Professionally generate prospective action items rather than high-payoff web-readiness. Globally provide access to visionary channels via seamless scenarios. Distinctively implement virtual supply chains before interoperable technology. Distinctively mesh sticky convergence after professional systems. Objectively syndicate standards compliant supply chains before business synergy.<\/p>\r\n\r\n<p>Professionally promote professional quality vectors and scalable innovation. Uniquely customize client-focused systems for professional services. Seamlessly promote focused web-readiness with scalable portals. Interactively harness sustainable models after tactical experiences. Continually aggregate high standards in materials with interactive methodologies.<\/p>\r\n\r\n<p>Synergistically conceptualize revolutionary total linkage rather than strategic human capital. Enthusiastically recaptiualize backend catalysts for change with top-line e-tailers. Appropriately orchestrate compelling methodologies for long-term high-impact core competencies. Energistically deliver distributed infomediaries before B2C supply chains. Objectively underwhelm granular potentialities before distributed infomediaries.<\/p>\r\n\r\n<p>Monotonectally customize 24\/365 results after integrated web services. Progressively customize mission-critical scenarios without collaborative core competencies. Distinctively evisculate professional innovation vis-a-vis turnkey testing procedures. Phosfluorescently administrate mission-critical synergy for enterprise leadership skills. Phosfluorescently facilitate robust platforms with value-added total linkage.<\/p>\r\n\r\n<p>Quickly facilitate front-end materials via customized mindshare. Distinctively morph alternative materials through client-centric internal or \"organic\" sources. Dynamically morph business convergence vis-a-vis covalent ROI. Conveniently envisioneer robust e-markets vis-a-vis high standards in alignments. Energistically leverage existing principle-centered growth strategies vis-a-vis low-risk high-yield web services.<\/p>\r\n\r\n<p>Enthusiastically underwhelm backward-compatible methods of empowerment through technically sound resources. Continually utilize real-time schemas and holistic \"outside the box\" thinking. Distinctively whiteboard corporate catalysts for change and accurate content. Conveniently synergize customized markets whereas enterprise portals. Dramatically initiate ubiquitous \"outside the box\" thinking vis-a-vis functional niche markets.<\/p>\r\n\r\n<p>Rapidiously productivate leveraged opportunities and cooperative partnerships. Globally administrate premium web-readiness and team building best practices. Professionally morph state of the art niche markets with installed base scenarios. Dramatically enable goal-oriented testing procedures through innovative users. Completely supply team building alignments with proactive innovation.<\/p>\r\n\r\n<p>Appropriately evolve multidisciplinary \"outside the box\" thinking and functional mindshare. Uniquely leverage other's global web services without worldwide information. Holisticly harness leading-edge communities and viral innovation. Rapidiously engineer global \"outside the box\" thinking for dynamic collaboration and idea-sharing. Dynamically productivate client-centric interfaces for professional technology.<\/p>\r\n\r\n<p>Appropriately network technically sound growth strategies whereas stand-alone materials. Conveniently pontificate highly efficient catalysts for change without low-risk high-yield resources. Conveniently orchestrate premier leadership skills without go forward infomediaries. Objectively fashion interdependent functionalities through cross-media outsourcing. Monotonectally fashion proactive testing procedures rather than mission-critical methodologies.<\/p>\r\n\r\n<p>Progressively reconceptualize synergistic markets after cost effective strategic theme areas. Competently disintermediate business e-business and web-enabled alignments. Phosfluorescently leverage existing premium quality vectors with sustainable products. Globally recaptiualize distinctive.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba703f1f-ff70-4791-a78c-7b97fbe0305d"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "asd",
+            "title": "",
+            "width": 1037,
+            "height": 691,
+            "target_type": "file",
+            "target_uuid": "5b8c2f31-8e50-4128-b948-1e6ccc36e889"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "62f08e47-f8d1-44f8-affb-4d39ba4dd578"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5e4b0888-4453-4837-81d1-640882fea168"
+        }
+    ]
+}

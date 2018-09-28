@@ -1,0 +1,66 @@
+.footer {
+  background: $color--tertiary;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  color: $color--white-smoke;
+  font-size: 85%;
+  h2, h3, h4, h5, h6 {
+    color: $color--whisper;
+    font-size: 1.2rem;
+    margin-bottom: .25rem;
+  }
+  p, a {
+    color: $color--light-grey;
+    font-size: .875rem;
+  }
+  p {
+    a {
+      text-decoration: underline;
+    }
+  }
+  @include bp-medium() {
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
+  .footer__top {
+    display: none;
+    @include bp-medium() {
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: space-between;
+      align-items: center;
+      margin-left: -$grid--gutter;
+      margin-right: -$grid--gutter;
+      > div {
+        flex: 1 1 auto;
+        padding-left: $grid--gutter;
+        padding-right: $grid--gutter;
+      }
+    }
+  }
+  .footer__bottom {
+    line-height: 3;
+    padding: 0;
+    margin: 0;
+    @include bp-medium() {
+      padding-top: $grid--gutter;
+      margin-top: $grid--gutter;
+      border-top: 1px solid $color--grey;
+    }
+    .menu--footer {
+      .menu {
+        margin: 0;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        .menu-item {
+          padding: .5rem;
+          a {
+            color: $color--light-grey;
+          }
+        }
+      }
+    }
+  }
+}

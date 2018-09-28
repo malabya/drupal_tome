@@ -1,0 +1,35 @@
+/* ==========================================================================
+   Search styling.
+   ========================================================================== */
+/**/
+
+.search-block-form {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+  float: right;
+  form {
+    position: relative;
+    .form-search {
+      width: 12rem;
+      height: 1.35rem;
+      font-size: .875rem;
+      color: $color--dark-grey;
+      padding: .25rem 1rem;
+      line-height: 1.5rem;
+    }
+    .form-submit {
+      position: absolute;
+      font-size: 0;
+      top: 0;
+      right: 0;
+      height: 1.35rem;
+      width: 2rem;
+      padding: 0;
+      background: transparent url('../images/search.svg') no-repeat center center;
+      margin: .35rem 0;
+      border-left: 1px solid $color--whisper;
+    }
+  }
+}
