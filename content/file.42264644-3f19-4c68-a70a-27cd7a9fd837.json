@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "42264644-3f19-4c68-a70a-27cd7a9fd837"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "black-panther-minimalism-4k-qk.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2018-09\/black-panther-minimalism-4k-qk_1.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 392881
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T17:32:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T17:32:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

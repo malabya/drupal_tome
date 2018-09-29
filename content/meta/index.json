@@ -79,5 +79,13 @@
         "user.addb4be9-c1cc-446a-a877-f4563229612f",
         "taxonomy_term.124dec68-d68b-4493-b58e-ebc965ed9650",
         "file.1b02bfd7-0fa1-4a3f-85ee-a1ffea8b8f3a"
+    ],
+    "file.42264644-3f19-4c68-a70a-27cd7a9fd837": [
+        "user.addb4be9-c1cc-446a-a877-f4563229612f"
+    ],
+    "node.9afefbd8-c132-4958-9e62-febc0a56cafb": [
+        "user.addb4be9-c1cc-446a-a877-f4563229612f",
+        "taxonomy_term.124dec68-d68b-4493-b58e-ebc965ed9650",
+        "file.42264644-3f19-4c68-a70a-27cd7a9fd837"
     ]
 }
