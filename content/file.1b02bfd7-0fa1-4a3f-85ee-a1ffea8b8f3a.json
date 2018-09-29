@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "1b02bfd7-0fa1-4a3f-85ee-a1ffea8b8f3a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "20150721_CMM_Wallpaper-1680x1050.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2018-09\/20150721_CMM_Wallpaper-1680x1050.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 139457
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T05:02:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T05:02:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

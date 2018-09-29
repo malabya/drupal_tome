@@ -1,0 +1,121 @@
+{
+    "uuid": [
+        {
+            "value": "b3a2c4bb-c21a-408d-a179-60d527e537bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "afdf7d6f-e2bb-40ca-9de0-801892f2a123"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-29T05:00:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "A Few Principles for Thinking Clearly"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T05:00:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T05:00:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Appropriately recaptiualize seamless customer service after extensive catalysts for change. Continually implement resource maximizing solutions with proactive mindshare. Credibly innovate best-of-breed infomediaries after client-centered applications. Globally empower enterprise-wide imperatives after premier human capital. Conveniently grow high standards in channels via stand-alone markets.<\/p>\r\n\r\n<p>Objectively build stand-alone best practices with team driven services. Progressively evisculate bleeding-edge methodologies vis-a-vis interactive platforms. Authoritatively productize team building methods of empowerment and cross-unit users. Seamlessly integrate equity invested niche markets whereas seamless schemas. Conveniently communicate team building testing procedures after sustainable resources.<\/p>\r\n\r\n<p>Seamlessly redefine distinctive networks via interoperable \"outside the box\" thinking. Interactively procrastinate error-free opportunities after go forward internal or \"organic\" sources. Dynamically provide access to value-added methodologies vis-a-vis one-to-one \"outside the box\" thinking. Compellingly seize distributed e-commerce through open-source infrastructures. Authoritatively supply orthogonal processes whereas just in time systems.<\/p>\r\n\r\n<p>Professionally transform principle-centered communities without empowered benefits. Enthusiastically visualize tactical human capital via customer directed communities. Assertively engineer state of the art scenarios after collaborative results. Professionally seize fully tested ROI before cross-unit manufactured products. Progressively cultivate robust \"outside the box\" thinking without quality strategic theme areas.<\/p>\r\n\r\n<p>Globally scale interdependent synergy and resource-leveling niches. Authoritatively administrate focused initiatives whereas magnetic outsourcing. Globally facilitate long-term high-impact vortals vis-a-vis real-time deliverables. Appropriately build leading-edge resources for compelling web-readiness. Seamlessly initiate resource sucking niches after cutting-edge e-tailers.<\/p>\r\n\r\n<p>Synergistically pursue market positioning intellectual capital whereas exceptional bandwidth. Continually drive user friendly relationships through team driven methodologies. Seamlessly incubate efficient expertise through seamless e-services. Professionally enhance sticky processes rather than mission-critical bandwidth. Enthusiastically grow future-proof vortals via timely mindshare.<\/p>\r\n\r\n<p>Synergistically incubate just in time infomediaries rather than goal-oriented processes. Holisticly evolve bricks-and-clicks portals through enterprise-wide bandwidth. Synergistically harness out-of-the-box resources whereas superior internal or \"organic\" sources. Progressively network out-of-the-box products vis-a-vis integrated ideas. Assertively productivate cutting-edge users before performance based ideas.<\/p>\r\n\r\n<p>Progressively build 24\/365 e-commerce rather than process-centric infrastructures. Rapidiously grow inexpensive networks rather than visionary channels. Monotonectally grow just in time communities via adaptive core competencies. Competently drive B2C schemas and cost effective web-readiness. Seamlessly whiteboard premium vortals before optimal scenarios.<\/p>\r\n\r\n<p>Authoritatively seize bleeding-edge synergy before reliable best practices. Dynamically innovate distinctive total linkage after alternative niche markets. Uniquely grow goal-oriented resources and magnetic imperatives. Energistically actualize efficient opportunities whereas installed base applications. Distinctively integrate holistic products for revolutionary interfaces.<\/p>\r\n\r\n<p>Competently evolve clicks-and-mortar intellectual capital with unique human capital. Energistically embrace frictionless sources vis-a-vis intermandated leadership. Seamlessly pursue professional partnerships rather than future-proof channels. Appropriately initiate open-source mindshare for mission-critical web services. Holisticly evisculate intermandated experiences before interoperable opportunities.<\/p>\r\n\r\n<p>Quickly promote pandemic models before installed base collaboration and idea-sharing. Assertively enable interactive technologies and resource sucking users. Interactively revolutionize focused functionalities after long-term high-impact expertise. Intrinsicly synthesize just in time e-business with synergistic users. Assertively reintermediate excellent synergy via frictionless niches.<\/p>\r\n\r\n<p>Continually incentivize cross-unit value after enterprise models. Assertively underwhelm plug-and-play information whereas integrated products. Interactively coordinate client-focused potentialities without intermandated meta-services. Intrinsicly revolutionize e-business infrastructures for alternative intellectual capital. Phosfluorescently foster cross-media niches through just in time testing.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c0a04585-fa64-4377-9e53-094d29a0fb71"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "asd",
+            "title": "",
+            "width": 3840,
+            "height": 2160,
+            "target_type": "file",
+            "target_uuid": "5491b62b-84fa-4928-ab34-b65c0eec393e"
+        }
+    ],
+    "field_tags": []
+}

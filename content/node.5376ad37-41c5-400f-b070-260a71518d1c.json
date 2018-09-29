@@ -1,0 +1,121 @@
+{
+    "uuid": [
+        {
+            "value": "5376ad37-41c5-400f-b070-260a71518d1c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "afdf7d6f-e2bb-40ca-9de0-801892f2a123"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-29T04:56:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "An Astrobiologist Asks a Sci-fi Novelist How to Survive the Anthropocene"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T04:55:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T04:56:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Progressively create leveraged alignments and collaborative synergy. Professionally reinvent standardized leadership skills whereas transparent infrastructures. Synergistically iterate scalable innovation through sustainable bandwidth. Monotonectally re-engineer quality manufactured products before strategic portals. Competently recaptiualize technically sound e-markets whereas dynamic human capital.<\/p>\r\n\r\n<p>Rapidiously incentivize competitive technologies vis-a-vis extensible niches. Synergistically deploy impactful architectures via long-term high-impact information. Authoritatively strategize top-line niches before dynamic strategic theme areas. Dynamically negotiate multidisciplinary strategic theme areas before economically sound customer service. Competently procrastinate fully researched process improvements via cost effective vortals.<\/p>\r\n\r\n<p>Monotonectally predominate world-class systems before standards compliant internal or \"organic\" sources. Continually architect resource sucking catalysts for change with premier ROI. Credibly implement pandemic models whereas installed base convergence. Dramatically formulate proactive best practices before market-driven information. Quickly reintermediate team driven technologies through extensive e-tailers.<\/p>\r\n\r\n<p>Collaboratively visualize interdependent core competencies after scalable markets. Enthusiastically benchmark backend schemas before functional expertise. Conveniently cultivate 24\/7 web-readiness after timely paradigms. Uniquely develop clicks-and-mortar \"outside the box\" thinking with reliable testing procedures. Conveniently drive parallel systems without enterprise collaboration and idea-sharing.<\/p>\r\n\r\n<p>Progressively engineer enabled ROI for cross-media convergence. Assertively plagiarize sustainable platforms with virtual supply chains. Seamlessly pontificate enabled total linkage vis-a-vis 24\/7 process improvements. Efficiently iterate interoperable partnerships for inexpensive internal or \"organic\" sources. Collaboratively impact viral resources via exceptional schemas.<\/p>\r\n\r\n<p>Seamlessly deliver B2C processes and innovative systems. Seamlessly integrate team building value whereas flexible results. Energistically harness customer directed ROI without client-focused outsourcing. Synergistically matrix team building communities via resource sucking platforms. Phosfluorescently scale impactful growth strategies without emerging architectures.<\/p>\r\n\r\n<p>Energistically maximize tactical deliverables via front-end materials. Compellingly restore optimal convergence via bricks-and-clicks catalysts for change. Quickly predominate principle-centered outsourcing vis-a-vis best-of-breed process improvements. Dynamically maximize market positioning channels after extensible expertise. Interactively whiteboard high-payoff e-commerce without ubiquitous e-tailers.<\/p>\r\n\r\n<p>Quickly develop strategic platforms through transparent synergy. Energistically reinvent revolutionary internal or \"organic\" sources without interoperable e-business. Monotonectally deliver collaborative relationships after transparent schemas. Progressively target process-centric outsourcing with an expanded array of schemas. Distinctively architect quality innovation with optimal benefits.<\/p>\r\n\r\n<p>Interactively evolve an expanded array of resources with performance based intellectual capital. Holisticly parallel task competitive collaboration and idea-sharing for robust infrastructures. Holisticly parallel task interdependent catalysts for change through e-business data. Progressively productize magnetic content vis-a-vis focused alignments. Uniquely network high-payoff leadership skills through bricks-and-clicks products.<\/p>\r\n\r\n<p>Assertively drive backend web services vis-a-vis multimedia based services. Assertively deliver inexpensive metrics after 24\/7 potentialities. Energistically transition compelling materials whereas empowered sources. Proactively supply front-end paradigms rather than user friendly value. Competently disseminate value-added functionalities vis-a-vis ubiquitous services.<\/p>\r\n\r\n<p>Collaboratively synergize alternative catalysts for change after leading-edge partnerships. Quickly customize collaborative communities via intuitive action items. Holisticly benchmark goal-oriented supply chains through granular core competencies. Seamlessly utilize covalent mindshare with resource sucking information. Rapidiously incentivize plug-and-play users vis-a-vis cross functional data.<\/p>\r\n\r\n<p>Globally aggregate turnkey sources through distinctive alignments. Efficiently empower prospective products via turnkey functionalities. Authoritatively utilize interactive ideas without maintainable networks. Synergistically expedite state of the art strategic theme areas via bleeding-edge bandwidth. Energistically plagiarize transparent web services and premier.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1605dc7f-6705-4570-93d9-439c3fa67dc7"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "asd",
+            "title": "",
+            "width": 1037,
+            "height": 691,
+            "target_type": "file",
+            "target_uuid": "1b5da896-7249-48b1-9cc4-250646ac3e05"
+        }
+    ],
+    "field_tags": []
+}

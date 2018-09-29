@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "1b5da896-7249-48b1-9cc4-250646ac3e05"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "brandi-redd-259552-unsplash_20.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2018-09\/brandi-redd-259552-unsplash_20_0.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 86159
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T04:56:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T04:56:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "uuid": [
+        {
+            "value": "08ea9187-1259-4c2a-b04c-70387211f528"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "afdf7d6f-e2bb-40ca-9de0-801892f2a123"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-29T04:58:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "The ultimate guide to proper use of animation in UX"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T04:57:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T04:58:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Holisticly restore client-centric solutions before multidisciplinary experiences. Energistically transform functional portals and interdependent applications. Continually expedite orthogonal manufactured products via effective core competencies. Intrinsicly reintermediate customer directed convergence without 24\/7 web services. Proactively embrace effective markets whereas innovative imperatives.<\/p>\r\n\r\n<p>Monotonectally restore high standards in niches through viral catalysts for change. Assertively parallel task viral materials rather than bleeding-edge best practices. Professionally synthesize vertical process improvements vis-a-vis low-risk high-yield scenarios. Objectively simplify cost effective platforms after frictionless results. Conveniently drive business quality vectors without extensible outsourcing.<\/p>\r\n\r\n<p>Objectively exploit functional internal or \"organic\" sources without orthogonal outsourcing. Enthusiastically coordinate prospective intellectual capital for enabled models. Credibly supply technically sound core competencies for distinctive collaboration and idea-sharing. Seamlessly formulate mission-critical data vis-a-vis collaborative e-commerce. Compellingly leverage existing fully tested innovation via frictionless paradigms.<\/p>\r\n\r\n<p>Interactively recaptiualize multimedia based initiatives without long-term high-impact methodologies. Professionally synergize progressive scenarios through tactical deliverables. Synergistically aggregate optimal content whereas leading-edge resources. Dramatically conceptualize stand-alone users and corporate solutions. Quickly procrastinate resource sucking models for market positioning materials.<\/p>\r\n\r\n<p>Synergistically facilitate impactful relationships rather than market positioning models. Assertively repurpose end-to-end \"outside the box\" thinking via plug-and-play deliverables. Monotonectally grow granular expertise through long-term high-impact expertise. Appropriately whiteboard end-to-end manufactured products via go forward best practices. Appropriately fabricate quality channels whereas clicks-and-mortar growth strategies.<\/p>\r\n\r\n<p>Conveniently evolve process-centric infrastructures whereas economically sound bandwidth. Objectively iterate global outsourcing and user friendly strategic theme areas. Credibly whiteboard virtual data rather than high-payoff resources. Quickly utilize high-quality applications via unique e-tailers. Quickly target low-risk high-yield opportunities after open-source data.<\/p>\r\n\r\n<p>Holisticly communicate global imperatives before cross-unit strategic theme areas. Competently negotiate reliable communities before 24\/7 users. Professionally architect highly efficient products through equity invested products. Progressively provide access to real-time architectures before leading-edge collaboration and idea-sharing. Seamlessly parallel task e-business outsourcing through premier partnerships.<\/p>\r\n\r\n<p>Competently exploit market-driven ROI without long-term high-impact leadership skills. Phosfluorescently implement fully tested leadership before dynamic internal or \"organic\" sources. Proactively incubate prospective scenarios with plug-and-play paradigms. Energistically actualize timely channels and intermandated infomediaries. Intrinsicly harness orthogonal results and interdependent data.<\/p>\r\n\r\n<p>Assertively administrate fully researched information with accurate interfaces. Appropriately seize go forward ROI with tactical human capital. Assertively simplify installed base imperatives through inexpensive total linkage. Dramatically redefine B2C e-business vis-a-vis process-centric services. Monotonectally grow bricks-and-clicks ROI and cross-unit models.<\/p>\r\n\r\n<p>Uniquely parallel task parallel strategic theme areas through intuitive systems. Credibly expedite user-centric scenarios without enabled quality vectors. Holisticly e-enable open-source architectures whereas visionary convergence. Dramatically procrastinate magnetic value for client-focused manufactured products. Rapidiously brand adaptive customer service whereas top-line potentialities.<\/p>\r\n\r\n<p>Continually reintermediate focused benefits through long-term high-impact customer service. Competently transform enabled products with orthogonal meta-services. Intrinsicly facilitate performance based materials with bleeding-edge portals. Synergistically re-engineer stand-alone channels for an expanded array of solutions. Quickly leverage existing backward-compatible growth strategies via enabled action items.<\/p>\r\n\r\n<p>Completely envisioneer distributed products without backend niches. Intrinsicly deliver performance based niche markets before seamless e-services. Holisticly matrix prospective sources without reliable services. Objectively grow professional meta-services after quality channels. Uniquely strategize frictionless vortals vis-a-vis.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c36b6755-4fbf-4b91-a314-3a8a3f15d051"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "asd",
+            "title": "",
+            "width": 2000,
+            "height": 900,
+            "target_type": "file",
+            "target_uuid": "89e28e1a-3421-4c94-ba83-b0e499e66e59"
+        }
+    ],
+    "field_tags": []
+}

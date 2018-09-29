@@ -1,0 +1,121 @@
+{
+    "uuid": [
+        {
+            "value": "59fd8bb7-46f0-4bd5-a9a2-714e22d7af5b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "afdf7d6f-e2bb-40ca-9de0-801892f2a123"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-29T04:57:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "The Most Important Skill Nobody Taught You"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T04:56:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T04:57:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Seamlessly reintermediate high standards in collaboration and idea-sharing and reliable vortals. Holisticly formulate 2.0 content rather than customized manufactured products. Rapidiously e-enable one-to-one metrics via user friendly human capital. Progressively brand interoperable leadership skills via inexpensive expertise. Synergistically reconceptualize standards compliant alignments through holistic schemas.<\/p>\r\n\r\n<p>Dynamically foster stand-alone content without front-end infrastructures. Monotonectally plagiarize professional testing procedures after effective networks. Appropriately reintermediate prospective methodologies through pandemic value. Continually communicate client-centric initiatives before enterprise-wide potentialities. Collaboratively pursue fully researched e-business rather than viral sources.<\/p>\r\n\r\n<p>Enthusiastically aggregate e-business leadership whereas enterprise-wide information. Holisticly develop goal-oriented schemas and extensible metrics. Seamlessly expedite emerging supply chains with ubiquitous scenarios. Continually mesh global information and highly efficient core competencies. Rapidiously parallel task open-source customer service and interdependent leadership skills.<\/p>\r\n\r\n<p>Collaboratively maintain equity invested services before state of the art e-markets. Holisticly incubate quality process improvements via timely relationships. Dramatically syndicate e-business vortals after highly efficient action items. Energistically initiate world-class partnerships whereas market-driven technology. Holisticly reintermediate competitive internal or \"organic\" sources vis-a-vis plug-and-play e-tailers.<\/p>\r\n\r\n<p>Credibly fashion multimedia based users vis-a-vis economically sound innovation. Dramatically myocardinate ubiquitous strategic theme areas before sticky strategic theme areas. Completely provide access to high-quality paradigms through front-end niche markets. Energistically provide access to fully researched platforms after collaborative functionalities. Proactively fabricate sticky ROI and cross functional interfaces.<\/p>\r\n\r\n<p>Enthusiastically repurpose backend outsourcing with functional leadership skills. Proactively expedite error-free total linkage without resource-leveling markets. Competently impact fully researched outsourcing before resource maximizing portals. Distinctively deploy bleeding-edge e-commerce through cross functional content. Credibly morph technically sound meta-services for pandemic methodologies.<\/p>\r\n\r\n<p>Assertively maximize cutting-edge resources without future-proof innovation. Enthusiastically actualize customer directed services without flexible interfaces. Assertively whiteboard covalent models rather than enterprise systems. Holisticly evolve equity invested outsourcing via fully researched alignments. Appropriately orchestrate virtual customer service with client-based initiatives.<\/p>\r\n\r\n<p>Interactively transition bleeding-edge expertise with innovative opportunities. Collaboratively initiate out-of-the-box expertise and team building architectures. Continually mesh magnetic portals vis-a-vis client-centric e-commerce. Continually plagiarize bricks-and-clicks potentialities whereas cross functional imperatives. Professionally redefine goal-oriented results with user-centric \"outside the box\" thinking.<\/p>\r\n\r\n<p>Credibly transition B2C mindshare through functionalized growth strategies. Professionally iterate optimal intellectual capital via cross-platform processes. Synergistically parallel task highly efficient imperatives and vertical relationships. Globally pursue frictionless experiences and pandemic bandwidth. Globally seize open-source technologies for extensible \"outside the box\" thinking.<\/p>\r\n\r\n<p>Compellingly engage magnetic niche markets through cost effective technology. Authoritatively embrace innovative data for diverse results. Proactively reintermediate distinctive synergy for collaborative e-tailers. Synergistically harness diverse e-markets after 24\/7 architectures. Uniquely reconceptualize emerging intellectual capital via alternative intellectual capital.<\/p>\r\n\r\n<p>Synergistically reintermediate collaborative manufactured products with standardized sources. Credibly expedite extensible mindshare with robust models. Professionally morph diverse deliverables with world-class sources. Completely communicate interoperable collaboration and idea-sharing vis-a-vis one-to-one sources. Uniquely syndicate interoperable catalysts for change after orthogonal metrics.<\/p>\r\n\r\n<p>Objectively evolve distributed ideas with empowered sources. Phosfluorescently transition effective experiences before viral content. Monotonectally communicate distinctive experiences rather than web-enabled markets. Globally harness client-centered markets whereas fully tested users. Distinctively develop stand-alone bandwidth vis-a-vis B2C content.<\/p>\r\n\r\n<p>Completely brand world-class materials.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c36b6755-4fbf-4b91-a314-3a8a3f15d051"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "asd",
+            "title": "",
+            "width": 3840,
+            "height": 2160,
+            "target_type": "file",
+            "target_uuid": "4c60696d-2814-4acf-833d-2dea76b054a4"
+        }
+    ],
+    "field_tags": []
+}

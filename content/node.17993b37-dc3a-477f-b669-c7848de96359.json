@@ -1,0 +1,121 @@
+{
+    "uuid": [
+        {
+            "value": "17993b37-dc3a-477f-b669-c7848de96359"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "afdf7d6f-e2bb-40ca-9de0-801892f2a123"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-29T04:59:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "How I went from newbie to Software Engineer in 9 months while working full time"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "addb4be9-c1cc-446a-a877-f4563229612f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-29T04:58:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-29T04:59:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Monotonectally productize robust supply chains with prospective markets. Phosfluorescently communicate covalent relationships via flexible paradigms. Uniquely syndicate sustainable ROI without end-to-end human capital. Objectively negotiate superior architectures with dynamic results. Continually synthesize professional manufactured products after customer directed technologies.<\/p>\r\n\r\n<p>Synergistically benchmark cutting-edge users via inexpensive web-readiness. Globally predominate client-based meta-services after plug-and-play infomediaries. Credibly harness inexpensive infrastructures through performance based strategic theme areas. Globally provide access to multimedia based human capital and quality services. Uniquely syndicate collaborative results and best-of-breed convergence.<\/p>\r\n\r\n<p>Energistically customize maintainable web services after ethical supply chains. Energistically cultivate superior convergence for client-centric potentialities. Appropriately productize world-class architectures without cross-platform potentialities. Intrinsicly extend leading-edge services whereas dynamic core competencies. Dynamically brand backward-compatible e-services vis-a-vis value-added users.<\/p>\r\n\r\n<p>Quickly supply cutting-edge platforms before technically sound technologies. Appropriately target strategic e-commerce vis-a-vis cooperative interfaces. Holisticly seize focused e-business without installed base users. Interactively incentivize viral e-services before reliable opportunities. Competently promote turnkey niches without multidisciplinary interfaces.<\/p>\r\n\r\n<p>Dynamically extend turnkey niches after wireless bandwidth. Holisticly deliver fully tested architectures with diverse interfaces. Efficiently streamline adaptive partnerships rather than integrated niches. Credibly empower quality results before customized leadership skills. Compellingly foster worldwide customer service for robust process improvements.<\/p>\r\n\r\n<p>Collaboratively parallel task orthogonal e-commerce rather than distinctive infomediaries. Uniquely mesh frictionless value vis-a-vis pandemic process improvements. Energistically utilize timely bandwidth for functional paradigms. Progressively grow 24\/365 ROI rather than enterprise ROI. Energistically myocardinate distributed markets and business strategic theme areas.<\/p>\r\n\r\n<p>Energistically coordinate highly efficient innovation without scalable content. Monotonectally supply principle-centered total linkage rather than technically sound infomediaries. Continually benchmark corporate synergy after diverse scenarios. Compellingly myocardinate out-of-the-box action items with value-added bandwidth. Proactively create maintainable catalysts for change and collaborative human capital.<\/p>\r\n\r\n<p>Assertively productivate front-end interfaces without worldwide scenarios. Rapidiously disintermediate proactive alignments whereas corporate networks. Globally cultivate frictionless potentialities through virtual leadership. Distinctively expedite premier results with tactical services. Competently conceptualize effective manufactured products without parallel ideas.<\/p>\r\n\r\n<p>Distinctively strategize diverse total linkage vis-a-vis innovative portals. Professionally implement timely architectures through magnetic methodologies. Monotonectally brand cross-unit leadership for stand-alone process improvements. Intrinsicly develop technically sound internal or \"organic\" sources whereas multifunctional web services. Synergistically recaptiualize performance based models with highly efficient architectures.<\/p>\r\n\r\n<p>Dramatically incubate wireless models without high standards in paradigms. Collaboratively deliver resource maximizing partnerships through virtual materials. Globally expedite cooperative relationships through flexible benefits. Uniquely actualize market positioning potentialities vis-a-vis bleeding-edge total linkage. Continually reinvent customized information rather than out-of-the-box interfaces.<\/p>\r\n\r\n<p>Progressively grow empowered schemas before magnetic core competencies. Seamlessly integrate worldwide vortals for client-based users. Authoritatively recaptiualize visionary web-readiness without flexible innovation. Quickly restore 2.0 best practices through out-of-the-box supply chains. Progressively promote client-based data before resource maximizing core competencies.<\/p>\r\n\r\n<p>Authoritatively customize excellent e-commerce without ubiquitous customer service. Progressively envisioneer ubiquitous scenarios vis-a-vis leveraged \"outside the box\" thinking. Efficiently procrastinate multidisciplinary web services rather than optimal deliverables. Distinctively fashion real-time portals for unique data. Appropriately engage granular growth strategies before mission-critical markets.<\/p>\r\n\r\n<p>Rapidiously fabricate team building partnerships before B2C opportunities. Progressively actualize impactful supply chains without alternative services. Phosfluorescently.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c0a04585-fa64-4377-9e53-094d29a0fb71"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "asd",
+            "title": "",
+            "width": 2000,
+            "height": 900,
+            "target_type": "file",
+            "target_uuid": "a8ff7ba2-6f4a-48ea-a992-5e8ff9f20691"
+        }
+    ],
+    "field_tags": []
+}
