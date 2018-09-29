@@ -1,5 +1,5 @@
 [build]
-command = "composer install && ./vendor/bin/drush tome:install -y && ./vendor/bin/drush tome:static -l $DEPLOY_PRIME_URL"
+command = "rm -rf html && composer install && ./vendor/bin/drush tome:install -y && ./vendor/bin/drush tome:static -l $URL"
 publish = "html"
 
 [build.environment]
