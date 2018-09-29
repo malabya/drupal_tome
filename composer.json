@@ -26,7 +26,8 @@
         "drupal/tome": "1.x-dev",
         "drupal-tome/tome_drush": "dev-master",
         "drupal/taxonomy_menu": "^3.3",
-        "drupal/admin_toolbar": "^1.24"
+        "drupal/admin_toolbar": "^1.24",
+        "drupal/pathauto": "^1.3"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",
