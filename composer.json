@@ -48,6 +48,11 @@
             "web/profiles/contrib/{$name}": ["type:drupal-profile"],
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/Commands/{$name}": ["type:drupal-drush"]
+        },
+        "patches": {
+            "drupal/tome": {
+                "Support Pathauto": "https://www.drupal.org/files/issues/2018-10-14/3006450-2.patch"
+            }
         }
     }
 }
